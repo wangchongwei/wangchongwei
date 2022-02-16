@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working in Shenzhen
+- 🌱 I’m currently learning Flutter、Jetpack
+- 📫 How to reach me: wcw1992yu@163.com
+
+
