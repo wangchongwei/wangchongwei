@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working in Shenzhen
-- 🌱 I’m currently learning Flutter、Jetpack
+- 🌱 I’m currently learning Flutter、Jetpack、kotlin
 - 📫 How to reach me: wcw1992yu@163.com
 
 
